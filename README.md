@@ -1,10 +1,10 @@
 ## Hi there, I'm Kaustubh
 
-### I'm a final-year student of computer engineering at Mumbai university. 
+### I'm a a Software Devlopment Engineer at Valuefy, mumbai.
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.kaustubhnatuskar.tech/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kaustubhnatuskar/)
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kaustubhnatuskar/)
 
 <br>  
 
@@ -28,5 +28,5 @@
 
 <br />
 <br />
-<!-- [website]: https://www.kaustubhnatuskar.tech/
+<!-- 
 [linkedin]: https://www.linkedin.com/in/kaustubhnatuskar/ -->
