@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaustubh
 
-### I'm a a Software Devlopment Engineer at Valuefy, mumbai.
+### SDE at Valuefy
 ### Connect with me:
 
 
