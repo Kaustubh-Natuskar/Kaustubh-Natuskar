@@ -30,10 +30,5 @@
 <br />
 <br />
 
-## &#x1f4c8; My Contribution and Streak
-<p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="
-Kaustubh-Natuskar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh-Natuskar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
 <!-- 
 [linkedin]: https://www.linkedin.com/in/kaustubhnatuskar/ -->
