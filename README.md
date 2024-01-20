@@ -5,7 +5,7 @@ As of now, I'm in the Frameworker phase of my Tech career.    <br />
 working at Valuefy as SDE primarily working on loopback.    <br />
 
 I do not associate myself with any tech stack, language, or framework. Willing to work on tech that can solve some real-world problems.   <br />
-I'm Interested in working on distributed systems, go, distributed database, and anything which work on a scale of million users.  <br />
+I'm Interested in working on distributed systems,distributed database and anything which work on a scale of million users.  <br />
  
 <!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kaustubhnatuskar/)
 
